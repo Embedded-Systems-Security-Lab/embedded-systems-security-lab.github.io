@@ -1,6 +1,7 @@
 ---
 title: Embedded Systems Security Lab at Howard University
 layout: default
+order: 1
 ---
 
 # {{ page.title }}
