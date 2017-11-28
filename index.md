@@ -1,5 +1,6 @@
 ---
 title: Embedded Systems Security Lab at Howard University
+nav_title: Home
 layout: default
 order: 1
 ---
