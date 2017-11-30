@@ -1,3 +1,5 @@
 theme: jekyll-theme-time-machine
 title: ESSL@HU 
-
+collections:
+  projects:
+    output: true

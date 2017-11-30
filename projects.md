@@ -7,9 +7,8 @@ order: 2
 
 # {{ page.title }}
 
-{% for project in site.pages.categories.projects %}
-### {{ project.title }}
-{{ project.content | truncate:400 }} 
-[{{ project.url }}]( ... continue reading)
+{% for item in site.projects %}
+### [{{ item.title }}]({{ item.url }})
+{{ item.description }}
 {% endfor %}
 
