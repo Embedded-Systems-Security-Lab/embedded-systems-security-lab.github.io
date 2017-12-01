@@ -34,7 +34,13 @@
           {% endif %}
           {% assign mypages = site.pages | sort: "order" %}
               {% for page in mypages %}
+              {% if forloop.first == true %}
+              <a href="{{ page.url | absolute_url }}"><span>{{ page.nav_title }}</span></a>
+              {% else if forloop.last == true %}
+              <a href="{{ page.url | absolute_url }}"><span>{{ page.nav_title }}</span></a>
+              {% else %}
               | <a href="{{ page.url | absolute_url }}"><span>{{ page.nav_title }}</span></a> |
+              {% endif %}
               {% endfor %}
         </div>
         <span class="blc"></span><span class="trc"></span>
