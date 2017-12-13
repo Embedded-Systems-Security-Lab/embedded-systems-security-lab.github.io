@@ -35,7 +35,7 @@
           {% assign mypages = site.pages | sort: "order" %}
               {% for page in mypages %}
               {% if page.nav_title %}
-              | <a href="{{ page.url | absolute_url }}"><span>{{ page.nav_title }}</span></a> |
+              <a href="{{ page.url | absolute_url }}"><span>{{ page.nav_title }}</span></a> &nbsp;&nbsp;
               {% endif %}
               {% endfor %}
         </div>
