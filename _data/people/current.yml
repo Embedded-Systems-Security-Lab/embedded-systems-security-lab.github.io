@@ -1,0 +1,82 @@
+#- name: 
+#  url: 
+#  pic: 
+#  project: 
+#  degree: 
+#  first_employment: 
+
+Director:
+- name: Gedare Bloom
+  url: https://gedare.github.io
+  pic: img/GedareBloom.jpg
+  project: 
+  degree: Ph.D. C.S. 2013
+  first_employment:
+
+PhD:
+- name: Bassma Saleh
+  url: http://balsulami.kau.edu.sa/CVEn.aspx?Site_ID=0012776&Lng=EN
+  pic: img/BassmaSaleh.jpg
+  project: 
+  degree: 
+  first_employment:
+
+- name: Ebelechukwu Nwafor
+  url: https://ebelenwaf.github.io 
+  pic: img/EbelechukwuNwafor.jpg
+  project: 
+  degree: 
+  first_employment:
+
+- name: Habeeb Olufowobi
+  url: https://dipupo.github.io/index/
+  pic: img/HabeebOlufowobi.jpg
+  project: 
+  degree: 
+  first_employment:
+
+MS:
+
+Undergraduate:
+- name: Andre Campbell 
+  url: 
+  pic: img/AndreCampbell.jpg
+  project: 
+  degree: 
+  first_employment: 
+
+- name: Andriana Burgess
+  url: https://www.linkedin.com/in/andriana-burgess-7418b1115
+  pic: img/AndrianaBurgess.jpg
+  project: 
+  degree: 
+  first_employment: 
+
+- name: David Hill
+  url: https://www.linkedin.com/in/david-hill-b22b96127/
+  pic: img/DavidHill.jpg
+  project: 
+  degree: 
+  first_employment:
+
+- name: Keenah Mays
+  url: 
+  pic: img/KeenahMays.jpg
+  project: 
+  degree: 
+  first_employment:
+
+- name: Samman Thapa
+  url: https://www.linkedin.com/in/sammanbikramthapa/ 
+  pic: img/SammanThapa.jpg
+  project: 
+  degree: 
+  first_employment:
+
+- name: Saurav Aryal
+  url: https://saurav-k-aryal.github.io
+  pic: img/SauravAryal.jpg
+  project: 
+  degree: 
+  first_employment:
+

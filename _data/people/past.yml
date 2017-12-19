@@ -1,0 +1,27 @@
+
+#- name: 
+#  url: 
+#  pic: 
+#  project: 
+#  degree: 
+#  first_employment: 
+
+PhD:
+
+MS:
+
+Undergraduate:
+- name: Elise Blackmon
+  url: https://www.linkedin.com/in/elise-blackmon-a89a4884
+  pic: img/EliseBlackmon.jpg
+  project: Satellite Cybersecurity
+  degree: B.S. E.E. 2017
+  first_employment: Reynolds American
+
+- name: Portia Herndon
+  url: 
+  pic: img/PortiaHerndon.jpg
+  project: Satellite Cybersecurity
+  degree: B.S. C.S. 2017
+  first_employment: Booz Allen Hamilton
+
