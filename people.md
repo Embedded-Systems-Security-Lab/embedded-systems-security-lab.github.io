@@ -11,7 +11,7 @@ order: 3
 <table>
 {% tablerow p in site.data.people.current.Director %}
 {% if p.url %}<a href="{{ p.url }}">{% endif %}
-<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" width="150" /><br />
+<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" style="width:150px;" /><br />
 {{ p.name }}<br />
 {% if p.url %}</a>{% endif %}
 {{ p.degree }}
@@ -25,7 +25,7 @@ order: 3
 <table>
 {% tablerow p in site.data.people.current.PhD %}
 {% if p.url %}<a href="{{ p.url }}">{% endif %}
-<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" width="150" /><br />
+<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" style="width:150px;" /><br />
 {{ p.name }}<br />
 {% if p.url %}</a>{% endif %}
 {{ p.degree }}
@@ -36,7 +36,7 @@ order: 3
 <table>
 {% tablerow p in site.data.people.current.MS %}
 {% if p.url %}<a href="{{ p.url }}">{% endif %}
-<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" width="150" /><br />
+<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" style="width:150px;" /><br />
 {{ p.name }}<br />
 {% if p.url %}</a>{% endif %}
 {{ p.degree }}
@@ -49,7 +49,7 @@ order: 3
 
 {% tablerow p in site.data.people.current.Undergraduate %}
 {% if p.url %}<a href="{{ p.url }}">{% endif %}
-<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" width="150" /><br />
+<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" style="width:150px;" /><br />
 {{ p.name }}<br />
 {% if p.url %}</a>{% endif %}
 {{ p.degree }}
@@ -62,7 +62,7 @@ order: 3
 <table>
 {% tablerow p in site.data.people.past.PhD %}
 {% if p.url %}<a href="{{ p.url }}">{% endif %}
-<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" width="150" /><br />
+<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" style="width:150px;" /><br />
 {{ p.name }}<br />
 {% if p.url %}</a>{% endif %}
 {{ p.degree }}
@@ -73,7 +73,7 @@ order: 3
 <table>
 {% tablerow p in site.data.people.past.MS %}
 {% if p.url %}<a href="{{ p.url }}">{% endif %}
-<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" width="150" /><br />
+<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" style="width:150px;" /><br />
 {{ p.name }}<br />
 {% if p.url %}</a>{% endif %}
 {{ p.degree }}
@@ -86,7 +86,7 @@ order: 3
 
 {% tablerow p in site.data.people.past.Undergraduate %}
 {% if p.url %}<a href="{{ p.url }}">{% endif %}
-<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" width="150" /><br />
+<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" style="width:150px;" /><br />
 {{ p.name }}<br />
 {% if p.url %}</a>{% endif %}
 {{ p.degree }}
