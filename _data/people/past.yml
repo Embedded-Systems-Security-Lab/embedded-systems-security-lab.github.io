@@ -7,10 +7,30 @@
 #  first_employment: 
 
 PhD:
+- name: Ebelechukwu Nwafor
+  url: https://ebelenwaf.github.io 
+  pic: img/EbelechukwuNwafor.jpg
+  project: Trace-Based Data Provenance for Cyber-Physical Systems
+  degree: Ph.D. C.S. 2018 
+  first_employment: 
 
 MS:
 
 Undergraduate:
+- name: Saurav Aryal
+  url: https://saurav-k-aryal.github.io
+  pic: img/SauravAryal.jpg
+  project: Machine Learning for Automotive Intrusion Detection
+  degree: B.S. C.S. 2018
+  first_employment: 
+
+- name: Samman Thapa
+  url: https://www.linkedin.com/in/sammanbikramthapa/ 
+  pic: img/SammanThapa.jpg
+  project: RTEMS Priority Inheritance Protocol
+  degree: B.S. C.S. 2018
+  first_employment: 
+
 - name: Elise Blackmon
   url: https://www.linkedin.com/in/elise-blackmon-a89a4884
   pic: img/EliseBlackmon.jpg
@@ -24,4 +44,6 @@ Undergraduate:
   project: Satellite Cybersecurity
   degree: B.S. C.S. 2017
   first_employment: Booz Allen Hamilton
+
+
 
