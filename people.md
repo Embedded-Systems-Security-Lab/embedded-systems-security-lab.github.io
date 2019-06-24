@@ -18,6 +18,16 @@ order: 3
 {% endtablerow %}
 </table>
 
+## Post-Doctoral Scholars
+<table>
+{% tablerow p in site.data.people.current.PostDoc cols:3 %}
+{% if p.url %}<a href="{{ p.url }}">{% endif %}
+<img src="{{ p.pic }}" alt="{{ p.name }}" title="{{ p.name }}" style="width:150px;" /><br />
+{{ p.name }}<br />
+{% if p.url %}</a>{% endif %}
+{{ p.degree }}
+{% endtablerow %}
+</table>
 
 ## Current Students
 
