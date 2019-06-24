@@ -1,5 +1,5 @@
 theme: jekyll-theme-time-machine
-title: ESSL@HU 
+title: Embedded Systems Security Lab 
 collections:
   projects:
     output: true
