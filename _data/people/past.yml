@@ -7,16 +7,44 @@
 #  first_employment: 
 
 PhD:
+- name: Habeeb Olufowobi
+  url: https://dipupo.github.io/index/
+  pic: img/HabeebOlufowobi.jpg
+  project: Fail-Operational Intrusion Detection System (FO-IDS): A Mechanism for Securing Automotive In-Vehicle Networks
+  degree: Ph.D. C.S. 2019
+  first_employment:
+
 - name: Ebelechukwu Nwafor
   url: https://ebelenwaf.github.io 
   pic: img/EbelechukwuNwafor.jpg
   project: Trace-Based Data Provenance for Cyber-Physical Systems
   degree: Ph.D. C.S. 2018 
-  first_employment: 
+  first_employment: Villanova University
 
 MS:
 
 Undergraduate:
+- name: Andre Campbell 
+  url: 
+  pic: img/AndreCampbell.jpg
+  project: Trace-Based Provenance
+  degree: B.S. C.S. 2019
+  first_employment: 
+
+- name: Andriana Burgess
+  url: https://www.linkedin.com/in/andriana-burgess-7418b1115
+  pic: img/AndrianaBurgess.jpg
+  project: Block Programming for Internet-of-Things
+  degree: B.S. C.S. 2019
+  first_employment: 
+
+- name: Keenah Mays
+  url: 
+  pic: img/KeenahMays.jpg
+  project: Block Programaming for Internet-of-Things
+  degree: B.S. C.S. 2019
+  first_employment:
+
 - name: Saurav Aryal
   url: https://saurav-k-aryal.github.io
   pic: img/SauravAryal.jpg
